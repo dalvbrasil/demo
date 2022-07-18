@@ -2,8 +2,8 @@
 
 	class conetar{
 		private $servidor="localhost";
-		private $usuario="sol_0";
-		private $password="oct1969";
+		private $usuario="root";
+		private $password="";
 		private $bd="demopro";
 
 		public function conexion(){
